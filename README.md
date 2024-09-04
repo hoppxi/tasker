@@ -20,7 +20,7 @@ Hey there! Welcome to **Tasker**, a super simple CLI tool to help you manage you
 2. **Build It**
 
    ```bash
-   go build -o tasker main.go
+   go build -o tasker.exe main.go
    ```
 
    Now you’ve got an executable called `tasker`.
