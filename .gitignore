@@ -1,0 +1,29 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Go build artifacts
+*.test
+*.tmp
+*.log
+
+# JSON file with tasks
+tasks.json
+
+# IDE/editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
